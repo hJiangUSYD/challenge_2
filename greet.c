@@ -12,6 +12,7 @@ int main()
  printf ("yyy");
  printf ("iii");
 printf  ("mimimi");
+printf ("sss");
 
  return 5;
 }
