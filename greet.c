@@ -10,7 +10,8 @@ int main()
  printf("!\n"); 
  printf("ok");
  printf ("yyy");
- printf ("iii")
-;
+ printf ("iii");
+printf  ("mimimi");
+
  return 5;
 }
