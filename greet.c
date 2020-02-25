@@ -9,6 +9,7 @@ int main()
  printf("Hello, %s",str);
  printf("!\n"); 
  printf("ok");
+ printf ("yyy");
 
  return 5;
 }
